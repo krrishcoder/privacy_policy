@@ -6,17 +6,17 @@ We at Wallpaper Android App respect your privacy and are committed to protecting
 
 Information We Collect
 
-When you download and use our Wallpaper Android App, we may collect the following types of information:
+When you download and use our Wallpaper Android App,t the following types of information:
 
-Device Information: We may collect information about the device you are using, including the type of device, operating system, and device settings.
+Device Information: We will not collect information about the device you are using, including the type of device, operating system, and device settings.
 
-Usage Information: We may collect information about how you use our app, such as which wallpapers you view or download, the frequency and duration of your visits, and other usage statistics.
+Usage Information: We will not collect information about how you use our app, such as which wallpapers you view or download, the frequency and duration of your visits, and other usage statistics.
 
-Personal Information: We may collect personal information that you provide to us, such as your name, email address, and any other information that you choose to provide.
+Personal Information: We will not collect personal information that you provide to us, such as your name, email address, and any other information that you choose to provide.
 
 How We Use Your Information
 
-We may use the information we collect to:
+We will not use the information we collect to:
 
 Provide you with our Wallpaper Android App and its features.
 
@@ -30,7 +30,7 @@ Protect our users and our app from fraud, abuse, or other harm.
 
 Sharing Your Information
 
-We may share your information with third-party service providers who help us operate and improve our app. We may also share your information with third-party advertisers to provide you with relevant ads. We do not sell your personal information to third parties.
+We will not share your information with third-party service providers who help us operate and improve our app. We may also share your information with third-party advertisers to provide you with relevant ads. We do not sell your personal information to third parties.
 
 Security of Your Information
 
@@ -42,7 +42,7 @@ You can opt-out of receiving promotional messages from us by following the instr
 
 Children’s Privacy
 
-Our app is not intended for use by children under the age of 13. We do not knowingly collect or solicit personal information from children under the age of 13.
+Our app is not intended for use by children under the age of 9. We do not knowingly collect or solicit personal information from children under the age of 9.
 
 Changes to This Privacy Policy
 
